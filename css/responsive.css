@@ -1,0 +1,1170 @@
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    .my-navID #my-navbar {
+        padding: 0 12px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    
+    .my-navID #my-form {
+        display: none !important;
+    }
+
+    .my-navID #my-navbar {
+        padding: 0 16px;
+    }
+
+    .my-navID .my-ul {
+        margin-bottom: 0 !important;
+    }
+
+    .section-heading :is(h2, span) {
+        font: 700 38px/1.5 'Inter', sans-serif;
+    }
+
+    .shop-service {
+        padding: 64px 0 0 0 ;
+    }
+
+    .shop-page {
+        margin-top: 40px;
+    }
+
+    #service {
+        padding: 96px 0;
+    }
+
+    .content-intro h5 {
+        font: 700 15px/1.3 'Inter', sans-serif !important;
+    }
+
+    .footer-content .service-list ul li a {
+        font: 500 15px/1.3 'Inter', sans-serif;
+    }
+
+    .customers-support ul li a ul .detail .number {
+        font-size: 14px;
+    }
+
+    .copyright-content span {
+        font: 500 15px/1.3 'Inter', sans-serif;
+    }
+
+    .big-gap {
+        padding: 160px 0 80px 0;
+    }
+
+    .pay-check-mark {
+        width: 48%;
+    }
+
+    .description-ul li ul li i {
+        padding-right: 20px;
+    }
+
+    .in-game-check-mark .mg-top {
+        margin-top: 16px;
+    } 
+
+    .in-game-check-mark {
+        padding: 0px 12px 8px;
+    }
+
+    .in-game-check-mark .checkbox-outer .check-circle {
+        left: 8%;
+    }
+
+    #top-up .col-6 { 
+        padding: 0 4px;
+    }
+
+    .in-game-check-mark .checkbox-outer .check-circle {
+        top: 1%;
+        left: 1%;
+        font-size: 15px;
+        transform: translateY(0%);
+        -webkit-transform: translateY(0%);
+        -moz-transform: translateY(0%);
+        -ms-transform: translateY(0%);
+        -o-transform: translateY(0%);
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .modal {
+        --bs-modal-width: 420px;
+    }
+
+    #login span {
+        font-size: 15px;
+    }
+
+    #registration span {
+        font-size: 15px;
+    }
+
+    .order-nav .navbar-toggler {
+        display: none;
+    }
+
+    #order-form {
+        margin-top: 40px;
+    }
+
+    .my-navID #my-navbar {
+        padding: 0 12px;
+    }
+
+    .my-navID .my-ul {
+        margin-left: 0 !important;
+        margin-bottom: 0 !important;
+    }
+
+    .my-navID #my-form {
+        display: none !important;
+    }
+
+    .my-navID .form-btn ul li a {
+        font: 700 15px/1.3 'Inter', sans-serif;
+    }
+
+    #hero-area .arrows {
+        display: none;
+    }
+
+    #hero-area .banner-one,
+    #hero-area .banner-two {
+        height: 320px;
+    }
+
+    .section-heading :is(h2, span) {
+        font: 700 34px/1.5 'Inter', sans-serif;
+    }
+
+    .shop-service {
+        padding: 64px 0 0 0 ;
+    }
+
+    .shop-page {
+        margin-top: 48px;
+    }
+
+    #service {
+        padding: 80px 0;
+    }
+
+    #service h5 {
+        font: 700 14px/1.3 'Inter', sans-serif;
+    }
+
+    #service .md-device {
+        margin-top: 16px;
+    }
+
+    .footer-content h6 {
+        padding-bottom: 16px;
+    }
+
+    footer {
+        text-align: center;
+    }
+
+    .customers-support .md-device {
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .customers-support ul li a ul {
+        width: 220px;
+    }
+
+    .footer-content .service-list ul li a {
+        font: 500 13px/1.3 'Inter', sans-serif;
+    }
+
+    .customers-support ul li a ul .detail .number {
+        font-size: 14px;
+    }
+
+    .customers-support ul li a ul .icon i {
+        padding-right: 12px;
+    }
+
+    .service-social-media .social-icons ul li a {
+        font-size: 20px;
+    }
+
+    .copyright-content span {
+        font: 500 14px/1.3 'Inter', sans-serif;
+    }
+
+    .action-btn {
+        height: 56px;
+        width: 56px;
+        line-height: 56px;
+    }
+
+    .action-btn svg {
+        height: 32px;
+        width: 32px;
+    }
+
+    .in-game-check-mark .mg-top {
+        margin-top: 16px;
+    } 
+
+    .in-game-check-mark {
+        padding: 0px 12px 8px;
+    }
+
+    .pay-check-mark {
+        width: 56%;
+    }
+
+    .description-ul li ul li i {
+        padding-right: 24px;
+    }
+
+    .in-game-check-mark .checkbox-outer .check-circle {
+        left: 5%;
+    }
+
+    #top-up .col-6 { 
+        padding: 0 4px;
+    }
+
+    .in-game-check-mark .checkbox-outer .check-circle {
+        top: 1%;
+        left: 1%;
+        font-size: 15px;
+        transform: translateY(0%);
+        -webkit-transform: translateY(0%);
+        -moz-transform: translateY(0%);
+        -ms-transform: translateY(0%);
+        -o-transform: translateY(0%);
+    }
+
+    #service .service-content {
+        margin: 0 8px;
+    }
+
+    footer .logo {
+        display: none;
+    }
+
+    .customers-support {
+        padding-top: 8px;
+    }
+
+    #my-profile .profile-cover-area {
+        height: 260px;
+    }
+
+    #user-detail .col-md-12 {
+        margin-top: 16px;
+    }
+
+    .user-content {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -webkit-transform: translate(-50%, -50%);
+        -moz-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        -o-transform: translate(-50%, -50%);
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    h3 {
+        font: 700 34px/1.4 'Inter', sans-serif;
+    }
+
+    h4 {
+        font: 700 28px/1.4 'Inter', sans-serif;
+    }
+
+    #service {
+        padding: 24px 0;
+    }
+
+    #service h5 {
+        font: 700 16px/1.3 'Inter', sans-serif;
+    }
+
+    .shop-page {
+        margin-top: 96px;
+    }
+
+    #hero-area {
+        padding-top: 104px;
+    }
+
+    .section-heading :is(h2, span) {
+        font: 600 30px/1.3 'Inter', sans-serif;
+    }
+
+    .section-heading-gap {
+        padding-top: 16px;
+    }
+
+    .my-navID .my-logo img {
+        width: 240px;
+    }
+
+    .my-navID .form-btn ul li a {
+        padding: 8px 20px;
+        font: 700 16px/1.3 'Inter', sans-serif;
+    }
+
+    .big-gap {
+        padding: 124px 0 40px 0;
+    }
+
+    ::placeholder {
+        font: 500 15px/1.2 'Inter', sans-serif;
+    }
+
+    .color-shadow-inner {
+        padding: 8px 16px;
+    }
+
+    .color-shadow-inner input {
+        width: 64%;
+    } 
+
+    .in-game-check-mark {
+        padding: 0px 12px 8px;
+    }
+
+    .in-game-check-mark .in-total {
+        font-size: 13px;
+    }
+
+    .in-game-check-mark .ammount {
+        padding-left: 2px;
+        font-size: 11px;
+    }
+
+    .in-game-check-mark .checkbox-outer .check-circle {
+        top: 1%;
+        font-size: 15px;
+        transform: translateY(0%);
+        -webkit-transform: translateY(0%);
+        -moz-transform: translateY(0%);
+        -ms-transform: translateY(0%);
+        -o-transform: translateY(0%);
+    }
+
+    .customers-support ul li a ul {
+        width: 220px;
+    }
+
+    .pay-check-mark {
+        padding: 8px 16px;
+        width: 80%;
+    }
+
+    .pay-check-mark .img img {
+        width: 230px;
+    }
+
+    #top-up .col-6 { 
+        padding: 0 4px;
+    }
+
+    #hero-area .banner-one,
+    #hero-area .banner-two {
+        height: 240px;
+    }
+
+    #my-profile .user-setting a {
+        font: 500 14px/1.2 'Inter', sans-serif !important;
+        padding: 6px 16px;
+    }
+
+    #transaction {
+        padding: 124px 0 32px 0;
+    }
+
+    .my-transaction {
+        padding: 28px 12px 16px;
+    }
+
+    .transaction-title span {
+        padding: 6px 20px;
+        font: 400 13px/1.3 'Inter', sans-serif;
+    }
+
+    .my-transaction table tbody tr td {
+        padding: 10px 0;
+    }
+
+    .my-transaction table thead tr th span {
+        font: 700 13px/1.3 'Inter', sans-serif;
+    }
+
+    .my-transaction table tbody tr td span {
+        font: 400 12px/1.3 'Inter', sans-serif;
+    }
+
+    .my-transaction table tbody tr td :is(.suss-btn, .inprogress-btn, .cancel-btn) {
+        padding: 6px 20px;
+    }
+
+    .service-social-media .social-icons ul li a {
+        font-size: 20px;
+    }
+
+}
+
+
+@media (min-width: 391px) and (max-width: 575.98px) {
+    .my-navID .my-logo img {
+        width: 228px;
+    }
+
+    .my-navID .form-btn ul li a {
+        padding: 8px 20px;
+        font: 700 15px/1.3 'Inter', sans-serif;
+    }
+
+    #hero-area {
+        padding-top: 96px;
+    }
+
+    #service {
+        padding: 24px 0;
+    }
+
+    #service .section-heading-gap {
+        padding-top: 8px;
+    }
+
+    #service h5 {
+        font: 700 12px/1.3 'Inter', sans-serif;
+    }
+
+    #service .service-inner .col-lg-2 {
+        padding: 0 2px;
+    }
+
+    .section-heading :is(h2, span) {
+        font: 600 24px/1.3 'Inter', sans-serif;
+    }
+
+    .shop-page {
+        margin-top: 80px;
+    }
+
+    .inner-heading span i {
+        font-size: 22px;
+    }
+
+    #order-form span {
+        font-size: 16px;
+    }
+
+    .top-up-btn .modal-content {
+        width: 320px;
+    }
+
+    #top-up .col-6 { 
+        padding: 0 2px;
+    }
+
+    .in-game-check-mark .checkbox-outer .check-circle {
+        top: 15%;
+        left:  -1px;
+        padding-right: 0;
+        font-size: 11px;
+    }
+
+    .in-game-check-mark .checkbox-outer {
+        padding: 8px 0;
+        margin: 0 0;
+    }
+
+    .in-game-check-mark .in-total {
+        font-size: 12px;
+        font-weight: 600;
+        line-height: 1.1;
+    }
+
+    .in-game-check-mark .ammount {
+        padding-left: 0;
+        font-size: 9px;
+        line-height: 1.1;
+    }
+
+    #hero-area .banner-one, #hero-area .banner-two {
+        height: 200px;
+    }
+
+    #add-money {
+        padding: 80px 0 20px;
+    }
+
+    #transaction {
+        padding: 116px 0 20px 0;
+    }
+
+    .big-gap {
+        padding: 108px 0 16px 0;
+    }
+
+    .order-heading h3 {
+        font-size: 24px;
+    }
+
+    #order-form span {
+        font-size: 14px;
+    }
+
+    .my-transaction table tbody tr td span {
+        font: 400 11px/1.3 'Inter', sans-serif;
+    }
+
+    .pay-check-mark {
+        width: 60%;
+    }
+
+    .pay-check-mark .check-circle {
+        font-size: 14px;
+    }
+
+    .pay-check-mark .img {
+        margin-bottom: 8px;
+    }
+
+    .pay-check-mark .img img {
+        width: 132px;
+    }
+
+    .pay-check-mark .wallet-title {
+        font-size: 14px;
+    }
+}
+
+@media (min-width: 391px) and (max-width: 473.98px) {
+    .my-navID .my-logo img {
+        width: 168px;
+    }
+    .my-navID .form-btn ul li a {
+        padding: 8px 16px;
+        font: 700 14px/1.3 'Inter', sans-serif;
+    }
+
+    .section-heading :is(h2, span) {
+        font: 700 30px/1.5 'Inter', sans-serif;
+    }
+
+    #hero-area {
+        padding-top: 78px;
+    }
+
+    #hero-area .banner-one, #hero-area .banner-two {
+        height: 188px;
+    }
+
+    #my-profile {
+        padding: 80px 0 20px 0;
+    }
+
+    #transaction {
+        padding: 96px 0 20px 0;
+    }
+
+}
+
+@media (max-width: 767.98px) {
+    .my-navID #my-navbar {
+        display: none !important;
+    }
+
+    .navbar-toggler {
+        display: none;
+    }
+
+    #hero-area .arrows {
+        display: none;
+    }
+
+    #service .sm-device {
+        margin-top: 16px;
+    }
+
+    .content-intro h5 {
+        font: 700 16px/1.3 'Inter', sans-serif !important;
+    }
+
+    footer {
+        text-align: center;
+    }
+
+    .footer-content h6 {
+        padding-bottom: 28px;
+    }
+
+    .footer-content .service-list ul li a {
+        font: 500 13px/1.3 'Inter', sans-serif;
+    }
+
+    .customers-support ul li a ul .detail .number {
+        font-size: 14px;
+    }
+
+    footer .emali {
+        font-size: 15px;
+    }
+
+    .copyright-content span {
+        font: 500 13px/1.3 'Inter', sans-serif;
+    }
+
+    .action-btn {
+        height: 48px;
+        width: 48px;
+        line-height: 48px;
+    }
+
+    .action-btn svg {
+        height: 28px;
+        width: 28px;
+    }
+
+    .in-game-check-mark .mg-top,
+    .in-game-check-mark .mt-3 {
+        margin-top: 8px !important;
+    }
+
+    
+
+    .description-ul li ul li i {
+        padding-right: 24px;
+        font-size: 17px;
+    }
+
+    #service .service-content {
+        margin: 0 8px;
+    }
+
+    footer {
+        padding: 24px 0;
+    }
+
+    footer .logo {
+        display: none;
+    }
+
+    .customers-support {
+        padding-top: 8px;
+    }
+
+    .user-dropdown {
+        display: none;
+    }
+
+    .off-canvas-user-bar {
+        display: block;
+    }
+
+    #user-detail :is(.col-6, .col-12) {
+        margin-bottom: 16px;
+    }
+
+    #my-profile .profile-cover-area {
+        height: 300px;
+    }
+
+    .user-content {
+        display: block;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -webkit-transform: translate(-50%, -50%);
+        -moz-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        -o-transform: translate(-50%, -50%);
+        text-align: center;
+        justify-content: center;
+    }
+
+    .user-content .user-image {
+        margin-left: 40px;
+        width: 104px;
+        text-align: center;
+    }
+
+    .user-content .user-image img {
+        height: 100px;
+        width: 100px;
+    }
+
+    .user-content .user-address {
+        margin-top: 8px;
+    }
+
+    .off-canvas-menu .user-img img {
+        height: 32px;
+        width: 32px;
+    }
+
+    .off-canvas-menu span {
+        font-size: 14px;
+    }
+
+    .info-detail :is(.one, .two, .there, .four) {
+        width: 100%;
+        margin-bottom: 8px;
+    }
+
+    .backup-action span {
+        font-size: 14px;
+    }
+
+    .in-game-check-mark .checkbox-outer .out-of-stock {
+        top: -6px;
+        font: 500 8px/1.3 'Inter', sans-serif;
+        padding: 2px 6px;
+    }
+
+}
+
+@media (max-width: 575.98px) {
+    .color-shadow {
+        margin-top: 8px;
+        padding: 4px 4px;
+    }
+
+    .inner-heading {
+        padding-bottom: 2px;
+    }
+
+    .page-intro h3 {
+        font: 700 25px/1.4 'Inter', sans-serif;
+    }
+
+    .color-shadow h4 {
+        font: 700 20px/1.4 'Inter', sans-serif;
+    }
+
+    .footer-content h6 {
+        padding-bottom: 10px;
+        font-size: 18px;
+    }
+
+    ::placeholder {
+        font: 500 12px/1.2 'Inter', sans-serif;
+    }
+
+    .form-content .content-detail,
+    .form-content .content-gap {
+        display: block !important;
+    }
+
+    .form-content label {
+        font-weight: 500;
+        margin-bottom: 2px;
+        font-size: 16px;
+    }
+
+    .form-content .one, 
+    .form-content .two {
+        width: 100%;
+    }
+
+    .form-content .content-gap {
+        margin-top: 8px;
+    }
+
+    .form-content .two {
+        padding-top: 6px;
+    }
+
+    .form-content .content-submit button {
+        font: 700 15px/1.2 'Inter', sans-serif;
+    }
+
+    .form-content .question {
+        color: #000;
+        font-size: 15px;
+    }
+
+    #login .form-content .check-mark label {
+        display: inline-block;
+        font-size: 14px;
+        padding-left: 2px;
+    }
+
+    #login .form-content .forg-pass a {
+        font-size: 14px;
+    }
+
+    #login .form-content .check-mark input {
+        display: inline-block;
+        height: 12px;
+        width: 12px;
+    }
+
+    .form-content .question {
+        margin-top: 4px;
+        font-size: 14px;
+    }
+
+    .color-shadow-inner {
+        margin-top: 4px;
+        padding: 8px 12px;
+    }
+
+    .color-shadow-inner label {
+        font-size: 14px;
+        margin-bottom: 4px;
+    }
+
+    .color-shadow-inner input {
+        width: 100%;
+    }
+
+    .in-game-check-mark {
+        margin-top: 4px;
+        padding: 8px 12px;
+    }
+
+    .top-up-btn ul li button {
+        font-size: 15px;
+    }
+
+    .order-content {
+        padding: 16px 20px;
+    }
+
+    .user-info .user-name {
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        font-size: 15px;
+    }
+
+    .top-up-btn {
+        margin-top: 8px;
+    }
+
+    #user-detail .detail-one-inner .user-number {
+        font: 700 16px/1.4 'Inter', sans-serif;
+    }
+
+    #user-detail .detail-one-inner .user-titile {
+        font: 600 13px/1.2 'Inter', sans-serif;
+    }
+
+    #user-detail .user-info h6 {
+        font: 600 16px/1.2 'Inter', sans-serif;
+    }
+
+    #user-detail .user-info .title {
+        font: 500 13px/1.2 'Inter', sans-serif;
+    }
+
+    .add-money-content .heading h3 {
+        font-size: 20px;
+    }
+
+    .add-money-content .method .intro h5 {
+        font: 700 15px/1.5 'Inter', sans-serif;
+    }
+
+    .add-money-content .method .intro h5 span {
+        font-size: 16px;
+        margin-right: 2px;
+    }
+    
+    .req-content .intro h5 {
+        font: 700 15px/1.5 'Inter', sans-serif;
+    }
+
+    .req-content .intro h5 span {
+        font-size: 16px;
+        margin-right: 2px;
+    }
+
+    .ammount button {
+        padding: 6px 0;
+        font: 500 14px/1.3 'Inter', sans-serif;
+    }
+
+    .add-money-content .method .content .img p {
+        font: 500 11px/1.5 'Inter', sans-serif;
+    }
+
+    .my-transaction {
+        padding: 28px 8px 12px;
+    }
+
+    .transaction-title span {
+        padding: 6px 20px;
+        font: 400 11px/1.3 'Inter', sans-serif;
+    }
+
+    .my-transaction table tbody tr td {
+        padding: 10px 0;
+    }
+
+    .my-transaction table thead tr th span {
+        font: 700 13px/1.3 'Inter', sans-serif;
+    }
+
+    .my-transaction table tbody tr td :is(.suss-btn, .inprogress-btn, .cancel-btn) {
+        padding: 6px 16px;
+    }
+
+    .detail-content ul li, .detail-data ul li {
+        padding: 2px 0;
+    }
+
+    #login h3 {
+        font: 700 28px/1.4 'Inter', sans-serif;
+    }
+
+    #registration h3 {
+        font: 700 28px/1.4 'Inter', sans-serif;
+    }
+
+    .form-content .google button span {
+        font-size: 14px;
+    }
+
+    .form-content label {
+        font-size: 15px;
+    }
+
+    .modal-content {
+        width: 84%;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .service-social-media .social-icons ul li a {
+        height: 32px;
+        width: 32px;
+        line-height: 32px;
+        font-size: 18px;
+    }
+
+    .customers-support ul li a ul {
+        width: 216px;
+    }
+
+    .user-setting a {
+        padding: 4px 18px;
+        font: 400 10px/1.2 'Inter', sans-serif !important;
+    }
+   
+}
+
+@media (max-width: 390.98px) {    
+    #service h5 {
+        font: 700 14px/1.3 'Inter', sans-serif !important;
+    }
+
+    #service .service-inner .col-lg-2 {
+        padding: 0 0;
+    }
+
+    .section-heading :is(h2, span) {
+        font: 600 24px/1.3 'Inter', sans-serif;
+    }
+
+    .inner-heading span i {
+        font-size: 20px;
+    }
+
+    .my-navID .my-logo img {
+        width: 120px;
+    }
+
+    .my-navID .form-btn ul li a {
+        padding: 4px 16px;
+        font: 500 14px/1.2 'Inter', sans-serif;
+    }
+
+    #hero-area {
+        padding-top: 72px;
+    }
+
+    #hero-area .banner-one,
+    #hero-area .banner-two {
+        height: 148px;
+    }
+
+    #service {
+        padding: 12px 0;
+    }
+
+    .section-heading-gap {
+        padding-top: 8px;
+    }
+
+    .shop-page {
+        margin-top: 64px;
+    }
+
+    .action-btn {
+        display: none;
+    }
+
+    .form-content {
+        padding: 16px 24px;
+    }
+
+    .form-content .google button span {
+        font-weight: 600;
+        font-size: 15px;
+    }
+
+    #top-up .col-6 { 
+        padding: 0 2px;
+    }
+
+    
+    .pay-check-mark {
+        width: 55%;
+    }
+
+    .pay-check-mark .check-circle {
+        font-size: 14px;
+    }
+
+    .pay-check-mark .img {
+        margin-bottom: 6px;
+    }
+
+    .pay-check-mark .img img {
+        width: 108px;
+    }
+
+    .pay-check-mark .wallet-title {
+        font-size: 12px;
+    }
+
+    .in-game-check-mark .in-total {
+        font-size: 11px;
+        font-weight: 600;
+        line-height: 1.1;
+    }
+
+    .in-game-check-mark .ammount {
+        padding-left: 0;
+        font-size: 8px;
+        line-height: 1.1;
+    }
+
+    .in-game-check-mark .checkbox-outer {
+        padding: 4px 0;
+        margin: 0 0;
+    }
+
+    .description span {
+        font-size: 14px;
+    }
+
+    .in-game-check-mark .checkbox-outer .check-circle {
+        top: 17%;
+        left:  -1px;
+        padding-right: 0;
+        font-size: 11px;
+    }
+
+    #order-form span {
+        font-size: 15px;
+    }
+
+    .top-up-btn .modal-content {
+        width: 304px;
+    }
+
+    .top-up-btn .topup-action ul li a {
+        font-size: 15px;
+        padding: 6px 20px;
+    }
+    
+    #my-profile {
+        padding: 64px 0 20px 0;
+    }
+
+    #add-money {
+        padding: 64px 0 16px;
+    }
+
+    #transaction {
+        padding: 84px 0 16px 0;
+    }
+
+    .my-transaction table tbody tr td :is(.suss-btn, .inprogress-btn, .cancel-btn) {
+        padding: 6px 12px;
+    }
+
+    .order-heading h3 {
+        font-size: 22px;
+    }
+
+    #order-form span {
+        font-size: 14px;
+    }
+
+    .order-content {
+        padding: 12px 12px;
+    }
+
+    .big-gap {
+        padding: 74px 0 12px 0;
+    }
+
+    .offcanvas, .offcanvas-lg, .offcanvas-md, .offcanvas-sm {
+        --bs-offcanvas-width: 274px;
+    }
+
+    .canvas-user-info .user-img img {
+        height: 48px;
+        width: 48px;
+    }
+
+    .canvas-top {
+        margin-left: 10px;
+    }
+
+    .canvas-top .user-address .name {
+        font: 600 14px/1.3 'Inter', sans-serif;
+    }
+
+    .canvas-top .user-address .address {
+        margin-top: 2px;
+        font: 300 14px/1.3 'Inter', sans-serif;
+    }
+
+    .canvas-top .user-action {
+        margin-left: 20px;
+    }
+
+    .canvas-top .user-action a {
+        padding: 6px 12px;
+        font: 500 14px/1.3 'Inter', sans-serif;
+    }
+
+    .my-transaction table tbody tr td span {
+        font: 400 10px/1.3 'Inter', sans-serif;
+    }
+
+    .user-content {
+        top: 40%;
+        transform: translate(-50%, -40%);
+        -webkit-transform: translate(-50%, -40%);
+        -moz-transform: translate(-50%, -40%);
+        -ms-transform: translate(-50%, -40%);
+        -o-transform: translate(-50%, -40%);
+    }
+
+}
